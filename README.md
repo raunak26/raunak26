@@ -18,7 +18,7 @@ I'm a software engineer passionate about building intelligent systems that solve
 - Biotech + automation crossovers (liquid handlers, protocol DSLs)
 
 ## 📫 Reach Me
-- 💌 [Email](mailto:raunakanand@gmail.com)  
+- 💌 [Email](mailto:anandraunak2000@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/raunak-anand)  
 - 🌐 [Website](https://www.raunakanand.com/)  
 
